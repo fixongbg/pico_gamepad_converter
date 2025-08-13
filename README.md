@@ -1,4 +1,5 @@
 # Pico Gamepad Converter
+Enable old gamepads that don't support USB connections to be compatibles with certain platforms, such as Switch, PS1/PS2, Gamecube, Wii.
 
 Credit goes out to the original creator: https://github.com/Loc15/PicoGamepadConverter
 
@@ -16,7 +17,7 @@ This is my simplified guide of that project:
 
 ![schematic](./images/pico_pinout.png)
 
-5. Go to http://192.168.3.1 in a web browser to begin configuration. Choose your config, for example PS1/PS2 to Switch. 
+5. Go to http://192.168.3.1 in a web browser to begin configuration.<br>Host = What console to connect to.<br>Device = What controller to use.
 
 ![web_mode](./images/web_configurator.png)
 
