@@ -17,7 +17,7 @@ This is my simplified guide of that project:
 
 ![schematic](./images/pico_pinout.png)
 
-5. Go to http://192.168.3.1 in a web browser to begin configuration.<br>Host = What console to connect to.<br>Device = What controller to use.
+5. Go to http://192.168.3.1 in a web browser to begin configuration.<br>Host → The controller you plug into the Pico.<br>Device → The system you plug the Pico into.
 
 ![web_mode](./images/web_configurator.png)
 
