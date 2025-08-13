@@ -14,15 +14,13 @@ This is my simplified guide of that project:
 
 4. Make the connections. You can just hold a wire from **VBUS (+5V)** to **pin GP18** during boot of the pico. LED on the pico will start to flash, now you're in config mode. 
 
-![schematic](./docs/pico_pinout.png)
-![conections1](./docs/bread_board1.jpg)
-![conections2](./docs/bread_board2.jpg)
+![schematic](./images/pico_pinout.png)
 
 4. Go to configuration mode pressing the button on 18 GPIO on start. On WEB mode the LED start to blink.
 
 5. Choose the modes on the web server. Access http://192.168.3.1 in a web browser to begin configuration.
 
-![web_mode](./docs/web_configurator.png)
+![web_mode](./images/web_configurator.png)
 
 6. Connect your gamepad, when it connected successfully the LED on the board gonna turn on.
 
