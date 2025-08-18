@@ -23,6 +23,8 @@ This is my simplified guide of that project:
 
 6. Connect your gamepad, when it's connected successfully the LED on the board will turn on.
 
-7. Enjoy!
+7. Info about pinout and how to connect different gamepads, please see original repository: https://github.com/Loc15/PicoGamepadConverter
+  
+8. Enjoy!
 
 
